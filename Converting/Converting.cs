@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConvertingNumericSystems
 {
+
+    // puk
+
+    // asd
+
+    // pavel - lox
     public class Converting
     {
         /// <summary>
