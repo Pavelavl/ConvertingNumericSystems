@@ -10,6 +10,8 @@ namespace ConvertingNumericSystems
     // puk
 
     // asd
+
+    // pavel - lox
     public class Converting
     {
         public const string Alp = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
