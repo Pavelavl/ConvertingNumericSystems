@@ -8,6 +8,9 @@ namespace ConvertingNumericSystems
 {
     public class Converting
     {
+        /// <summary>
+        /// хуйхуйхуй
+        /// </summary>
         public const string Alp = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         /// <summary>
         /// Перевод из любой СС в любую СС
