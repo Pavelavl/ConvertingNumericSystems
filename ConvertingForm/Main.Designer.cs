@@ -153,7 +153,7 @@
             this.Controls.Add(this.enterNum);
             this.Controls.Add(this.textBox1);
             this.Name = "Main";
-            this.Text = "Form1";
+            this.Text = "Converting";
             this.ResumeLayout(false);
             this.PerformLayout();
 

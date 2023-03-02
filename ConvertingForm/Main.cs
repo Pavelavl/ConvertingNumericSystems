@@ -13,6 +13,9 @@ namespace ConvertingForm
         /// </summary>
         /// <param name="sender">Инициатор события</param>
         /// <param name="e">Событие</param>
-        private void button1_Click(object sender, EventArgs e) => Out.Text = ConvertingNumericSystems.Converting.ConvertBase(enterNum.Text, int.Parse(enterFromBase.Text), int.Parse(enterToBase.Text));
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Out.Text = ConvertingNumericSystems.Converting.ConvertBase(enterNum.Text, int.Parse(enterFromBase.Text), int.Parse(enterToBase.Text));
+        }
     }
 }
