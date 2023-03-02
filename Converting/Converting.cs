@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConvertingNumericSystems
 {
-    public static class Converting
+    public class Converting
     {
         public const string Alp = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         /// <summary>
