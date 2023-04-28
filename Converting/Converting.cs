@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConvertingNumericSystems
 {
     public class Converting
-    {
+    { 
         public const string Alp = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         /// <summary>
         /// Перевод из системы счисления fromBase в систему счисления toBase в диапазоне от 2 до 36
